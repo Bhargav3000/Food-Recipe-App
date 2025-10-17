@@ -17,7 +17,7 @@ Before running the project, make sure you have the following installed:
 
    ```
 ## Install dependencies
-   cd food-recipe-app < br/>
+   cd food-recipe-app  
    npm install
 
 
