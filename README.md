@@ -10,16 +10,16 @@ Before running the project, make sure you have the following installed:
 
 ## Getting Started
 
-1. Clone the repository:
+## Clone the repository:
 
    ```shell
    git clone https://github.com/Bhargav3000/food-recipe-project.git
 
    ```
-2. Install dependencies
-   cd food-recipe-app
+## Install dependencies
+   cd food-recipe-app 
    npm install
 
 
-3. Start the application
+## Start the application
    npm start
